@@ -150,7 +150,7 @@ If you'd like to talk about **web development, programming, projects, or technol
 
 ### 📧 Email
 
-**(mailto:scriptedbymohamed@gmail.com)**
+
 
 <br/>
 
